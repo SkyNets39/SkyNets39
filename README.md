@@ -1,23 +1,3 @@
-<div align="center">
-
-```
-  ██╗    ██╗██╗██╗     ██╗     ██╗ █████╗ ███╗   ███╗
-  ██║    ██║██║██║     ██║     ██║██╔══██╗████╗ ████║
-  ██║ █╗ ██║██║██║     ██║     ██║███████║██╔████╔██║
-  ██║███╗██║██║██║     ██║     ██║██╔══██║██║╚██╔╝██║
-  ╚███╔███╔╝██║███████╗███████╗██║██║  ██║██║ ╚═╝ ██║
-   ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
-*full-stack developer · jakarta, indonesia*
-
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-black?style=flat-square&logo=vercel)](https://william-personal-portfolio.vercel.app/zh)
-[![Email](https://img.shields.io/badge/email-williamwinata37@gmail.com-black?style=flat-square&logo=gmail)](mailto:williamwinata37@gmail.com)
-
-</div>
-
----
-
 ### Hi, I'm William 👋
 
 I'm a full-stack developer who enjoys building things that actually work well — clean architecture, thoughtful UI, and code I won't be embarrassed to read a year later. I studied Computer Science at Shanghai University and have been building real-world web apps since. I speak Indonesian, English, and Mandarin (HSK 5).
